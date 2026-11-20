@@ -2,89 +2,49 @@ Shiva Rama Krishna Konda
 
 Computer Science Engineering Student | Software Development | AI/ML | Cybersecurity
 
-I'm a final-year Computer Science Engineering student at Guru Nanak Institute of Technology, Hyderabad.
+I'm a Computer Science Engineering student at Guru Nanak Institute of Technology, Hyderabad (2023–2027).
 
-I work on software development projects, explore new technologies and improve my technical skills through hands-on implementation. My primary interests are software engineering, backend development, artificial intelligence and cybersecurity.
+I use GitHub as a space to learn, experiment and build. Most of my repositories are part of my ongoing learning process, where I implement concepts, explore technologies and improve my understanding through practical development.
 
-I enjoy understanding how systems work, solving technical problems and applying what I learn to practical projects.
+I'm particularly interested in software engineering, backend development, AI/ML and cybersecurity. I enjoy working on technical problems and understanding how things work beyond just writing code.
 
 Technical Skills
 
-Programming Languages
+Programming: Python, C++, JavaScript
 
-- Python
-- C++
-- JavaScript
+Web Technologies: HTML, CSS, JavaScript
 
-Web Development
+Database: MySQL
 
-- HTML5
-- CSS3
-- JavaScript
+Tools: Git, GitHub, VS Code, Wireshark, Figma
 
-Database
+Areas I'm Exploring
 
-- MySQL
+- Software Engineering: DSA, OOP, problem-solving, software design and development.
+- Backend Development: REST APIs, server-side programming, authentication and database integration.
+- AI & Machine Learning: ML algorithms, model training, data processing and AI-powered applications.
+- Cybersecurity: Web application security, ethical hacking, vulnerability assessment and network security.
+- Computer Science Fundamentals: Operating Systems, Computer Networks and Database Systems.
 
-Tools & Technologies
+Learning Through Implementation
 
-- Git & GitHub
-- VS Code
-- Figma
-- Wireshark
+I believe the best way to understand a technology is to build something with it.
 
-Areas of Interest
+My repositories include:
 
-Software Engineering
-
-- Data Structures and Algorithms
-- Object-Oriented Programming
-- Problem Solving
-- Software Development
-
-Backend Development
-
-- REST APIs
-- Server-side programming
-- Database integration
-- Application architecture
-
-Artificial Intelligence & Machine Learning
-
-- Machine Learning fundamentals
-- Model development
-- AI-powered applications
-- Data-driven problem solving
-
-Cybersecurity
-
-- Web Application Security
-- Ethical Hacking
-- Vulnerability Assessment
-- Network Security
-- Network Traffic Analysis
-
-Projects
-
-Privai-Guard
-
-An application security project focused on identifying and protecting sensitive information in AI prompts.
-
-Advanced Port Scanner
-
-A Python-based network scanning project focused on port discovery and service identification.
-
-AI Cybersecurity Threat Detection
-
-A machine learning project exploring techniques for detecting suspicious network activity and potential security threats.
+- Small implementations to understand programming concepts.
+- Projects developed while learning new frameworks and technologies.
+- Experiments with AI/ML algorithms and applications.
+- Security-related tools and practical networking exercises.
+- Problem-solving implementations using different approaches.
 
 Experience
 
-Cybersecurity Intern — Supraja Technologies
+Cybersecurity Intern | Supraja Technologies
 
 January 2026 – April 2026
 
-Gained practical exposure to cybersecurity concepts and security-related activities during a three-month internship.
+Three-month internship focused on developing practical knowledge of cybersecurity concepts and security practices.
 
 Certifications
 
@@ -92,19 +52,22 @@ Certifications
 - Infosys Springboard – Generative AI Basics
 - Let's Upgrade – Frontend Development
 
-Currently Working On
+Currently Learning & Improving
 
-- Improving problem-solving skills through DSA.
-- Learning backend development and API design.
-- Building practical AI/ML applications.
-- Exploring web security and vulnerability assessment.
-- Improving code quality and software development practices.
+- Strengthening DSA and problem-solving skills.
+- Developing backend applications and working with APIs.
+- Implementing machine learning algorithms through practical projects.
+- Exploring web application security and hands-on vulnerability testing.
+- Improving code structure, debugging, testing and documentation.
+- Understanding software architecture and development workflows.
 
-Connect With Me
+Connect
 
 - GitHub: https://github.com/ShivaRamaKrishna-05
 - LinkedIn: https://www.linkedin.com/in/shiva-rama-krishna-konda-110b30347/
 
 ---
 
-I use GitHub to maintain my projects, experiment with technologies and track my progress as a developer.
+Learn → Implement → Experiment → Improve.
+
+This GitHub profile documents my learning process, technical experiments and progress as a developer.
